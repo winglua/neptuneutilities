@@ -42,6 +42,9 @@ body {
 
 .navbar-brand {
     padding: 0 0 0 80px;
+}
+
+.navbar-brand>img {
     width: 320px;
     transition: all .3s ease-in-out;
 }

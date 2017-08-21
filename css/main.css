@@ -146,6 +146,7 @@ body {
     padding: 6px 8px;
     font-size: 24px;
     font-weight: lighter;
+    cursor: pointer;
     width: 0;
     opacity: 0;
     background-color: transparent;

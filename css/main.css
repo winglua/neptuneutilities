@@ -41,8 +41,9 @@ body {
 /* ============ bootstrap style redefine ============ */
 
 .container {
-    width: 1200px;
+    min-width: 1136px;
 }
+
 .navbar-brand {
     padding: 0 0 0 80px;
 }
@@ -62,13 +63,10 @@ body {
 
 .navbar-default {
     background-color: #fff;
-    
 }
-.navbar-collapse{
-    
-   
-    
-}
+
+.navbar-collapse {}
+
 .nav>li>a {
     padding: 10px 20px;
     margin-top: 5px;

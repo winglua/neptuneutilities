@@ -62,8 +62,13 @@ body {
 
 .navbar-default {
     background-color: #fff;
+    
 }
-
+.navbar-collapse{
+    
+   
+    
+}
 .nav>li>a {
     padding: 10px 20px;
     margin-top: 5px;
